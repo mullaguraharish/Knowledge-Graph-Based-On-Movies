@@ -41,7 +41,7 @@ the movie recommendation similar to the given movie.
 
 **For more details about the project please refer to [**"Project Description.pdf"**][1]**
 
-[1]: https://github.com/anirudhjak06/Knowledge-Graph-Based-on-Movies/blob/main/Project%20Description.pdf "Title"
+[1]: https://github.com/mullaguraharish/Knowledge-Graph-Based-On-Movies/blob/main/Project%20Description.pdf "Title"
 
 
 ## Functionalities and Components of the project:
